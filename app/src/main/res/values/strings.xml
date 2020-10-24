@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Avisos</string>
+    <string name="btnA2">Ir a Activity 2</string>
+    <string name="btnMA">Volver a Main Activity</string>
+    <string name="activity2">Activity 2</string>
+    <string name="main">Main Activity</string>
+</resources>
